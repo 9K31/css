@@ -1,0 +1,22 @@
+/**
+ * Styles for overriding shorthand's published css
+ *
+ * Created 19 Jun 2019
+ * Updated 19 Jun 2019
+ *
+ * Last update: create file, CD.
+ *
+ * @author Colin Denholm
+ */
+
+.Theme-Header {
+	background: #1f3165;
+}
+
+.Theme-Layer-BodyText p, .Theme-Story p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#footer_shorthand_link {
+	display: none;
+}
