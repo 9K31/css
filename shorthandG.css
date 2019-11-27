@@ -14,8 +14,8 @@
 	background: #1f3165;
 }
 
-.Theme-Layer-TextBlock-Inner .Theme-Byline, .Theme-Layer-TextBlock-Inner .Theme-LeadIn, .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
-	font-family: 'Gill Sans';
+.Theme-Section .Theme-TitleSection .Theme-Section-Position-1{
+	font-family: 'Comic Sans';
 }
 
 /*BodyText - Entire story*/
