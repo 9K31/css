@@ -14,7 +14,7 @@
 	background: #1f3165;
 }
 
-.Theme-Layer-BodyText p, .Theme-Story p {
+.Theme-Layer-BodyText p, h1, h2, .Theme-Story p {
 	font-family: Bodoni MT;
 }
 
