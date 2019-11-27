@@ -23,16 +23,12 @@
 	font-family: 'Source Sans Pro';
 }
 
-.Theme-Title {
-	font-family: 'Bodoni MT', serif;
-}
-
 .Theme-TitleSection {
-	font-family: 'Garamond', serif;
+	font-family: 'Garamond';
 }
 
 .Theme-LeadIn {
-	font-family: 'Bodoni MT', serif;
+	font-family: 'Bodoni MT';
 }
 
 .Theme-ForegroundColor-9 {
