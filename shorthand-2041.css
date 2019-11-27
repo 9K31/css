@@ -14,11 +14,9 @@
 	background: #1f3165;
 }
 
-.Theme-TitleSection p,
-.Theme-Layer-TextBlock-Inner p,  
-.Theme-LeadIn p,
-.Theme-StoryTitle h1 {
-	font-family: 'Times', serif!important;
+.Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-Byline {
+    color:#12bf9c!important;
+    font-family:Bodoni MT, Textile, Cursive!important;
 }
 
 .Theme-Layer-BodyText p, .Theme-Story p {
