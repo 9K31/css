@@ -13,14 +13,8 @@
 .Theme-Header {
 	background: #1f3165;
 }
-
-.Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-Byline {
-    color:#12bf9c!important;
-    font-family:Bodoni MT, Textile, Cursive!important;
-}
-
 .Theme-Layer-BodyText p, .Theme-Story p {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Yatra One', sans-serif;
 }
 
 #footer_shorthand_link {
