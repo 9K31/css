@@ -14,7 +14,7 @@
 	background: #1f3165;
 }
 
-.Theme-Section .Theme-TitleSection .Theme-Section-Position-1{
+.Theme-TitleSection .Theme-Section-Position-1{
 	font-family: 'Comic Sans';
 }
 
@@ -25,7 +25,7 @@
 
 /*TextOverImage-Subtitle*/
 .Theme-Layer-TextBlock-Inner {
-	font-family: 'Source Sans Pro';
+	font-family: 'Comic Sans';
 }
 
 .Theme-LeadIn {
