@@ -1,0 +1,31 @@
+/**
+ * Styles for overriding shorthand's published css
+ *
+ * Created 19 Jun 2019
+ * Updated 26 Nov 2019
+ *
+ * Last update: add custom fonts.
+ *
+ * @author Colin Denholm
+ * @author Thomas Haigh
+ */
+
+.Theme-Header {
+	background: #1f3165;
+}
+
+.Theme-Layer-BodyText p {
+	font-family: Bodoni MT;
+}
+.Theme-TitleSection {
+	font-family: 'Courier New', Courier, monospace;
+}
+.Theme-Layer-TextBlock-Inner {
+	font-family: 'Times New Roman', Times, serif;
+}
+.Theme-StoryTitle {
+	font-family: 'Comic Sans';
+}
+#footer_shorthand_link {
+	display: none;
+}
