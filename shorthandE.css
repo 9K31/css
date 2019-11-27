@@ -13,17 +13,18 @@
 .Theme-Header {
 	background: #1f3165;
 }
-
+/*BodyText - Entire story*/
 .Theme-Layer-BodyText p {
-	font-family: Bodoni MT;
+	font-family: 'Bodoni MT', serif;
 }
-.Theme-TitleSection {
-	font-family: 'Courier New', Courier, monospace;
+.Theme-Title .Theme-Subtitle .Theme-TextSize-xxxsmall {
+	font-family: Bodoni MT, serif!important;
 }
+/*TextOverImage-Subtitle*/
 .Theme-Layer-TextBlock-Inner {
-	font-family: 'Times New Roman', Times, serif;
+	font-family: 'Source Sans Pro';
 }
-.Theme-StoryTitle {
+.Theme-ForegroundColor-9 {
 	font-family: 'Comic Sans';
 }
 #footer_shorthand_link {
