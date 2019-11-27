@@ -13,18 +13,19 @@
  .Theme-Header {
 	background: #1f3165;
 }
+
+.Theme-Layer-TextBlock-Inner .Theme-Byline, .Theme-Layer-TextBlock-Inner .Theme-LeadIn, .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
+	font-family: 'Gill Sans';
+}
+
 /*BodyText - Entire story*/
 .Theme-Layer-BodyText p {
-	font-family: 'Bodoni MT', serif;
+	font-family: 'Bodoni MT';
 }
 
 /*TextOverImage-Subtitle*/
 .Theme-Layer-TextBlock-Inner {
 	font-family: 'Source Sans Pro';
-}
-
-.Theme-StoryTitle .Theme-TextSize-xlarge {
-	font-family: 'Gill Sans';
 }
 
 .Theme-LeadIn {
