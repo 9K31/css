@@ -18,7 +18,7 @@
 .Theme-Layer-TextBlock-Inner p,  
 .Theme-LeadIn p,
 .Theme-StoryTitle h1 {
-	font-family: 'Times', serif; 
+	font-family: 'Times', serif!important;
 }
 
 .Theme-Layer-BodyText p, .Theme-Story p {
