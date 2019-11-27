@@ -23,8 +23,8 @@
 	font-family: 'Source Sans Pro';
 }
 
-.Theme-Title .Theme-Subtitle .Theme-TextSize-xxxsmall {
-	font-family: 'Bodoni MT'!important, serif;
+.Theme-Title {
+	font-family: 'Bodoni MT', serif;
 }
 
 .Theme-ForegroundColor-9 {
