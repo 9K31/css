@@ -18,12 +18,13 @@
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-.Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-StoryTitle {font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
-font-size: 48px; 
-font-style: italic; 
-font-variant: normal; 
-font-weight: 700; 
-line-height: 38.4px;
+.Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-StoryTitle {
+	font-family: "Bodoni MT", serif; 
+	font-size: 48px; 
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 38.4px;
 }
 
 #footer_shorthand_link {
