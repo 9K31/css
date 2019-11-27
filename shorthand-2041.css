@@ -14,12 +14,8 @@
 	background: #1f3165;
 }
 
-.Theme-Layer-BodyText h1, .Theme-Story h1 {
-	font-family: 'Times', serif!important;
-}
-
 .Theme-Layer-BodyText p, .Theme-Story p {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Yatra One', sans-serif;
 }
 
 #footer_shorthand_link {
