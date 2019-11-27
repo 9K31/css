@@ -21,7 +21,7 @@
 }
 /*TitlePage-SubTitle*/
 .Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-    font-family: 'Open Sans';
+    font-family: 'Source Sans Pro';
 }
 /*TextoverImage-Title*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-Title {
@@ -29,11 +29,11 @@
 }
 /*TextoverImage-SubTitle*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-SubTitle {
-    font-family: 'Open Sans';
+    font-family: 'Source Sans Pro';
 }
 /*BodyText - Entire story*/
 .Theme-Layer-BodyText p {
-	font-family: 'Open Sans';
+	font-family: 'Source Sans Pro';
 }
 
 #footer_shorthand_link {
