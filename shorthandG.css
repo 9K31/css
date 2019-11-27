@@ -17,8 +17,8 @@
 .Theme-Layer-BodyText p {
 	font-family: 'Bodoni MT', serif;
 }
-.Theme-Title {
-	font-family: 'Bodoni MT', serif;
+.Theme-Title h1 {
+	font-family: Bodoni MT, serif;
 }
 .Theme-Layer-TextBlock-Inner {
 	font-family: 'Source Sans Pro';
