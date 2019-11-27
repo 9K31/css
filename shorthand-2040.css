@@ -14,13 +14,11 @@
 	background: #1f3165;
 }
 
-.Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-LeadIn  .Theme-StoryTitle {
-	font-family: "Bodoni MT", serif; 
-	font-size: 48px; 
-	font-style: italic; 
-	font-variant: normal; 
-	font-weight: 700; 
-	line-height: 38.4px;
+.Theme-TitleSection p,
+.Theme-Layer-TextBlock-Inner p,  
+.Theme-LeadIn p,
+.Theme-StoryTitle h1 {
+	font-family: 'Bodoni MT', serif; 
 }
 
 .Theme-Layer-BodyText p, .Theme-Story p {
