@@ -14,10 +14,7 @@
 	background: #1f3165;
 }
 
-.Theme-TitleSection p,
-.Theme-Layer-TextBlock-Inner p,  
-.Theme-LeadIn p,
-.Theme-StoryTitle h1 {
+.Theme-Layer-BodyText h1, .Theme-Story h1 {
 	font-family: 'Times', serif!important;
 }
 
