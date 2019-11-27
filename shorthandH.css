@@ -10,22 +10,31 @@
  * @author Thomas Haigh
  */
 
-.Theme-Header {
+ .Theme-Header {
 	background: #1f3165;
 }
+/*BodyText - Entire story*/
+.Theme-Layer-BodyText p {
+	font-family: 'Bodoni MT', serif;
+}
 
-h1 {
-	font-family: 'Bodoni MT', serif;
-}
-h2 {
-	font-family: 'Bodoni MT', serif;
-}
-p {
+/*TextOverImage-Subtitle*/
+.Theme-Layer-TextBlock-Inner {
 	font-family: 'Source Sans Pro';
 }
+
+.Theme-Title .Theme-TextSize-large {
+	font-family: 'Garamond';
+}
+
+.Theme-LeadIn {
+	font-family: 'Bodoni MT';
+}
+
 .Theme-ForegroundColor-9 {
 	font-family: 'Comic Sans';
 }
+
 #footer_shorthand_link {
 	display: none;
 }
