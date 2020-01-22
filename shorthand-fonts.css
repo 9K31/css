@@ -1,0 +1,45 @@
+/**
+ * Styles for overriding shorthand's published css
+ *
+ * Created 19 Jun 2019
+ 
+ * Updated 22 Jan 2020
+ *
+ * Last update: Add custom fonts.
+ *
+ * @author Colin Denholm
+ * @author Thomas Haigh
+ */
+
+ .Theme-Header {
+	background: #1f3165;
+}
+
+/*TitlePage-Title*/
+.Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-StoryTitle {
+    font-family:'Bodoni MT';
+}
+/*TitlePage-SubTitle*/
+.Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/*TextoverImage-Title*/
+.Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-Title {
+    font-family: 'Droid Serif';
+}
+/*TextoverImage-SubTitle*/
+.Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-SubTitle {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/*TextSection-Title*/
+.Theme-Layer-BodyText-Heading-Large {
+    font-family: 'Droid Serif';
+}
+/*BodyText - Entire story*/
+.Theme-Layer-BodyText p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#footer_shorthand_link {
+	display: none;
+}
