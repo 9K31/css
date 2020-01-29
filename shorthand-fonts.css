@@ -17,7 +17,7 @@
 
 /*TitlePage-Title*/
 .Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-StoryTitle {
-    font-family:'Source Sans Pro';
+    font-family:'Source Sans Pro', sans-serif
 }
 /*TitlePage-SubTitle*/
 .Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
@@ -25,7 +25,7 @@
 }
 /*TextoverImage-Title*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-Title {
-    font-family: 'Droid Serif';
+    font-family: 'Source Sans Pro', sans-serif
 }
 /*TextoverImage-SubTitle*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-SubTitle {
