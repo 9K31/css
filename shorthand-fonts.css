@@ -17,27 +17,27 @@
 
 /*TitlePage-Title-*/
 .Theme-TitleSection .Theme-Layer-TextBlock-Inner  .Theme-StoryTitle {
-    font-family:'Source Sans Pro', sans-serif
+    font-family:'Source Sans Pro';
 }
 /*TitlePage-SubTitle*/
 .Theme-TitleSection .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro';
 }
 /*TextoverImage-Title*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-Title {
-    font-family: 'Source Sans Pro', sans-serif
+    font-family: 'Source Sans Pro';
 }
 /*TextoverImage-SubTitle*/
 .Theme-TextOverMediaSection .Theme-Layer-TextBlock-Inner  .Theme-SubTitle {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro';
 }
 /*TextSection-Title*/
 .Theme-Layer-BodyText-Heading-Large {
-    font-family: 'Droid Serif';
+    font-family: 'Source Sans Pro';
 }
 /*BodyText - Entire story*/
 .Theme-Layer-BodyText p {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Source Sans Pro';
 }
 
 #footer_shorthand_link {
